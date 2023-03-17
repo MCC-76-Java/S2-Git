@@ -1,4 +1,4 @@
-# Hello MCC 76 Semangat...
+# Hello MCC 76 Semangat...OK
 
 main
 develop
