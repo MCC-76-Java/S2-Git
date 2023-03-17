@@ -1,1 +1,1 @@
-# Hello, kita belajar Three Way Merging
+# Hello, kita belajar Git
