@@ -1,0 +1,45 @@
+* [33m282287a[m[33m ([m[1;31morigin/MainRio[m[33m, [m[1;32mMainRio[m[33m)[m add index.html
+[31m|[m * [33m52143aa[m[33m ([m[1;36mHEAD -> [m[1;32mRio[m[33m, [m[1;31morigin/Rio[m[33m)[m add index.html
+[31m|[m[31m/[m  
+* [33m664e17c[m delete tes3.md
+* [33m25fa855[m add screenshots
+*   [33m96a075b[m add tes3.md
+[33m|[m[34m\[m  
+[33m|[m * [33mdb5807b[m add tes3.md
+* [34m|[m [33m520f22a[m add tes3.md
+[34m|[m[34m/[m  
+*   [33mf4e3782[m add tes3.md
+[35m|[m[36m\[m  
+[35m|[m * [33m712e3f6[m add tes3.md
+* [36m|[m [33m2733405[m add tes3.md
+[36m|[m[36m/[m  
+* [33m4008dbb[m add tes2.md
+* [33m2f22c9a[m add tes2.md
+* [33me4df5b6[m add README.md, image, test1.md
+*   [33m489376b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m solved conflict
+[1;31m|[m[1;32m\[m  
+[1;31m|[m * [33m5ed688e[m[33m ([m[1;31morigin/develop[m[33m)[m create conflict
+* [1;32m|[m [33md605c06[m create conflict
+* [1;32m|[m [33m271dc79[m Merge pull request #1 from MCC-76-Java/develop
+[1;33m|[m[1;32m\[m[1;32m|[m 
+[1;33m|[m *   [33m8c71289[m solved conflict
+[1;33m|[m [1;35m|[m[1;33m\[m  
+[1;33m|[m [1;35m|[m[1;33m/[m  
+[1;33m|[m[1;33m/[m[1;35m|[m   
+* [1;35m|[m [33mc6a491c[m create conflict
+[1;36m|[m * [33md3f2ee1[m create conflict
+[1;36m|[m *   [33m4348bb5[m Merge branch 'main' of github.com:MCC-76-Java/S2-Git into develop
+[1;36m|[m [31m|[m[1;36m\[m  
+[1;36m|[m [31m|[m[1;36m/[m  
+[1;36m|[m[1;36m/[m[31m|[m   
+* [31m|[m [33mcde407d[m create conflict
+[32m|[m *   [33m4c46582[m Merge branch 'main' of github.com:MCC-76-Java/S2-Git into develop
+[32m|[m [33m|[m[32m\[m  
+[32m|[m [33m|[m[32m/[m  
+[32m|[m[32m/[m[33m|[m   
+* [33m|[m [33mb225cd2[m add file Parent.md
+[34m|[m * [33m53651d6[m add file Child.md
+[34m|[m[34m/[m  
+* [33m52d02e2[m add file MCC76.md
+* [33m51d4324[m add & modify file
+* [33m516b240[m Add README.md
