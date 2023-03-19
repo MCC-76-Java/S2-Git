@@ -15,25 +15,19 @@
 
 - git branch
 
-![image](image/Gitinit.png)
-<<<<<<< HEAD
 ![image](image/Gitbranch.png)
 
 - git fast fordward
 
-![image](img/fordward.png)
-=======
-![image](image/Gitbranch.png)
-
-- git fast fordward
-
-![image](image/fordward.png)
->>>>>>> MainRidlo
-
+![image](image/Gitmerge2.png)
 
 - git merge
 
 ![image](image/Gitmerge.png)
-![image](image/Gitmerge2.png)
 
 - git merger three way merge
+![image](image/Gitbgraph.png)
+
+- git request
+
+![image](image/Gitpullrequest.png)
