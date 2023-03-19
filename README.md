@@ -3,15 +3,15 @@
 
 - git init
 
-![image](img/init.png)
+![image](images/init.png)
 
 - git branch
 
-![image](img/branch.png)
+![image](images/branch.png)
 
 - git fast fordward
 
-![image](img/fordward.png)
+![image](images/fordward.png)
 
 
 - git merge
