@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NUR AMRINA
 
 Hi... :) learn about git and to connect it to our github.
@@ -25,3 +26,8 @@ Hi... :) learn about git and to connect it to our github.
 
 8. menambah file parent 
 ![Graph2](D:\GitBash\img\menambahfileparent.png)
+=======
+# LEARN ABOUT GIT
+
+Hi... :) learn about git and to connect it to our github.
+>>>>>>> 6401a204b50d468c01a3d14b08a8bef9f3750ae5
