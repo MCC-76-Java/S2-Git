@@ -1,8 +1,5 @@
 # **[S2-Tugas1-Git] - Shofian Ramadhan**
 
 - Git Init
-<img src="/Img/1_git_init.png/">
+<img src="/Img/1_git_init.PNG/">
 
-
-- Menambah file baru
-![Git init](img/Menambah_file_baru.png)
