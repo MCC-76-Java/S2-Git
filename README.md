@@ -7,5 +7,4 @@
 2. Three Way Merge dan solved conflict
 
 ![img2][we]
-a. Create Conflict
 [we]: img/create%20conflict.png
