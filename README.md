@@ -15,17 +15,23 @@ Hi... :) learn about git and to connect it to our github.
 4. git merge
 ![Gitmerge](D:\GitBash\img\git merge.png)
 
-5. graph 1
-![Graph2](D:\GitBash\img\graph2.png)
+5. graph 
+![Graph](D:\GitBash\img\graph3.png)
 
 6. Remote
-![Graph2](D:\GitBash\img\gitremote.png)
+![remotr](D:\GitBash\img\gitremote.png)
 
 7. menambah file text 
-![Graph2](D:\GitBash\img\menambah file text.png)
+![text](D:\GitBash\img\menambah file text.png)
 
 8. menambah file parent 
-![Graph2](D:\GitBash\img\menambahfileparent.png)
+![parent](D:\GitBash\img\menambahfileparent.png)
+
+9. Three Way Merging 
+![merging](D:\GitBash\img\menambahfileparent.png)
+
+10. Solved conflict
+![conflict](D:\GitBash\img\menambahfileparent.png)
 =======
 # LEARN ABOUT GIT
 
