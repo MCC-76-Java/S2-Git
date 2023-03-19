@@ -1,5 +1,6 @@
 # Ini untuk Percobaan ya
 
+<<<<<<< HEAD
 
 ## Perhitunagn
 
@@ -9,3 +10,6 @@
 ## hai
 
 ## Belajar GIT 
+=======
+## test percobaan GIT
+>>>>>>> Syafiq
