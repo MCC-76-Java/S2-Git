@@ -4,4 +4,4 @@
 ![Git init](img/1. git init.png)
 
 - Menambah file baru
-![Git init](img/1. git init.png)
+![Git init](img/1.-git-init.png)
