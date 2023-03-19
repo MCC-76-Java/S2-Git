@@ -1,7 +1,7 @@
 # Hello MCC 76
 
 ## Semangat...
-# RIdlo 
+# RIdlo Alfatoriq
 
 
 - git init
