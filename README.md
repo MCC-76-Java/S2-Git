@@ -1,3 +1,4 @@
-# Hello MCC 76
+# Hello MCC 
 
-## Semangat...
+- git init
+![image](img/init.png)
