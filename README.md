@@ -10,6 +10,8 @@
 
 ![img3](img/solve%20conflict.png)
 
+[img4](img/conflict.png)
+
 4. GraphT hree Way Merge 
 
-![img4](img/graph%20Three%20Way%20Merge.png)
+![img5](img/graph%20Three%20Way%20Merge.png)
