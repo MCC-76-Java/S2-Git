@@ -1,17 +1,22 @@
 # SELA FITRIA DEWI
 
-- Git init
+- git init
 
-    ![image](img/init.png)
+![image](img/init.png)
 
+- git brach
 
-- git branch
-
-    ![image](img/brach.png)
+![image](img/branch.png)
 
 - git fast fordward
 
-![image](img/brach.png)
+![image](img/fordward.png)
 
-- git merge 
+- git merge conflict
+
+![image](img/merge_conflict.png)
+
 - git merge three way merge
+
+![image](img/tree_merge.png)
+
