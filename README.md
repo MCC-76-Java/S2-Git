@@ -1,4 +1,7 @@
-# **[S2-Tugas1-Git] - Shofian Ramadhan**
+# Shofian Ramadhan
+
 
 - Git Init
-![image](img/1_git_init.png)
+
+<img src="/img/1_git_init.png/">
+
