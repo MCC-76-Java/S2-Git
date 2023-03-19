@@ -15,6 +15,7 @@
 
 - git branch
 
+![image](image/Gitinit.png)
 <<<<<<< HEAD
 ![image](image/Gitbrach.png)
 
