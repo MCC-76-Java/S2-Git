@@ -1,12 +1,10 @@
 # Hello MCC 
 
-# Im Qathrin guysss
-
-- git init
+- Git Init
 
 ![image](img/init.png)
 
-- git branch
+- Git Branch
 
 ![image](img/branch.png)
 
@@ -15,4 +13,10 @@
 ![image](img/fastforward.png)
 ![image](img/fastforward2.png)
 
-- Three ways merge
+- Three Ways Merge
+![image](img/twm.png)
+![image](img/twm2.png)
+
+- Pull Request
+
+
