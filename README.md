@@ -16,3 +16,5 @@
 ![image](img/fastforward2.png)
 
 - Three ways merge
+![image](img/twm.png)
+![image](img/twm2.png)
