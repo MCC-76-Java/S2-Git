@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #Mochamad Ghozy Satur Panama
+=======
+# Mochamad Ghozy Satur Panama
+>>>>>>> MainGhozy
 
 
 - git init
@@ -11,7 +15,11 @@
 
 - git fast fordward
 
+<<<<<<< HEAD
 ![image](img/fordward.png)
+=======
+![image](Images/fordward.jpg)
+>>>>>>> MainGhozy
 
 
 - git merge
