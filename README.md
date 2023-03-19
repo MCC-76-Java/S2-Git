@@ -40,4 +40,4 @@
 ![Pull Request - Solved Conflict](img/PullRequest-SolvedConflict.png)
 
 - Three Way Merge - Graph
-![Three Way Merge - Graph](img/ThreeWayMerge-Graph.png)
+![Three Way Merge - Graph](img/ThreeWayMerge-Graph2.png)
