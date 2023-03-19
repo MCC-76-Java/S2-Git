@@ -19,3 +19,6 @@
 - Three Ways Merge
 ![image](img/twm.png)
 ![image](img/twm2.png)
+
+- pull request
+![image](img/pullrequest.png)
