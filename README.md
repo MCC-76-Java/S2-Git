@@ -1,6 +1,8 @@
-<img src="Downloads/Praktek/1.png" alt="Git Init">
-<img src="Downloads/Praktek/2.png" alt="menambahkan file README dan remote ke origin">
-<img src="Downloads/Praktek/3.png" alt="Fast Forward">
-<img src="Downloads/Praktek/10.png" alt="Warning Conflict">
-<img src="Downloads/Praktek/11.png" alt="Solve Conflict">
-<img src="Downloads/Praktek/13.png" alt="Three Way Merge">
+[Git Init](~/Downloads/Praktek/1.png)
+[menambahkan file README dan remote ke origin](~/Downloads/Praktek/2.png)
+[Fast Forward](~/Downloads/Praktek/3.png)
+[Warning Conflict](~/Downloads/Praktek/10.png)
+[menambahkan file README dan remote ke origin](~/Downloads/Praktek/11.png)
+[Solve Conflict](~/Downloads/Praktek/12.png)
+[Three Way Merge](~/Downloads/Praktek/13.png)
+
