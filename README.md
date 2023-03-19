@@ -17,7 +17,7 @@
 
 ![image](image/Gitinit.png)
 <<<<<<< HEAD
-![image](image/Gitbrach.png)
+![image](image/Gitbranch.png)
 
 - git fast fordward
 
