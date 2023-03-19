@@ -11,7 +11,7 @@
 
 - git fast fordward
 
-![image](Images/fordward.png)
+![image](Images/fordward.jpg)
 
 
 - git merge
