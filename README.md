@@ -1,3 +1,3 @@
 # Hello MCC 76
 
-## Semangat...
+## Semangat Maulana Rafael Irianto
