@@ -4,7 +4,7 @@
 
 ### Git Init
 
-https://github.com/MCC-76-Java/S2-Git/blob/MainMhus/img/1.%20Git%20Init.jpeg
+![Alt text](https://github.com/MCC-76-Java/S2-Git/blob/MainMhus/img/1.%20Git%20Init.jpeg)
 
 ### Git Add and Commit
 
