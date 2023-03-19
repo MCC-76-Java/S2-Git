@@ -26,3 +26,9 @@ Tugas GIT
 - Solve CONFLICT
 <img src="/img/img7.JPG"/>
 <img src="/img/img8.JPG"/>
+
+- Pull Request
+<img src="/img/img9.JPG"/>
+<img src="/img/img10.JPG"/>
+<img src="/img/img11.JPG"/>
+<img src="/img/img12.JPG"/>
