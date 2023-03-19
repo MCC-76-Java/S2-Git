@@ -1,10 +1,13 @@
 # SELA FITRIA DEWI
 
 - Git init
-    ![](img/init.png)
+
+    ![image](img/init.png)
+
 
 - git branch
-    ![](img/branch.png)
+
+    ![image](img/branch.png)
 
 - git fast fordward
 - git merge 
