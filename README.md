@@ -13,7 +13,7 @@
 <img src="/Img/Git Merge Conflict.JPG/">
 
 5. Git Merge Three Way Merge
-<img src="/Img/Git Merge Three Way Merge.JPG/">
+<img src="/Img/Git Three Way Merge.JPG/">
 
 6. Pull Request Merging
 <img src="/Img/Pull Request Merging.JPG/">
