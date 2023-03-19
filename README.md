@@ -7,8 +7,11 @@
 
 - git branch
 
-    ![image](img/branch.png)
+    ![image](img/brach.png)
 
 - git fast fordward
+
+![image](img/brach.png)
+
 - git merge 
 - git merge three way merge
