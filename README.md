@@ -3,5 +3,5 @@
 
 - Git Init
 
-<img src="/img/init.png/">
+<img src="/img/17. pull request.png/">
 
