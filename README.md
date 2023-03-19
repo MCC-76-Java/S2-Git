@@ -1,4 +1,4 @@
 # Maulana Rafael Irianto
 # MCC-76
 # Surabaya
-# Application Programmer
+# Application Programmer/Developer
