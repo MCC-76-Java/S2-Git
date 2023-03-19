@@ -6,11 +6,11 @@
 
 - git init
 
-![image](img/init.png)
+![image](img/Gitinit.png)
 
 - git brach
 
-![image](img/brach.png)
+![image](img/Gitbranch.png)
 
 - git fast fordward
 
