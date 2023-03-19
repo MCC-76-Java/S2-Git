@@ -13,10 +13,9 @@
 ![image](img/fastforward.png)
 ![image](img/fastforward2.png)
 
+-merge conflict
+![image](img/mergeconflict.png)
+
 - Three Ways Merge
 ![image](img/twm.png)
 ![image](img/twm2.png)
-
-- Pull Request
-
-
