@@ -1,7 +1,7 @@
 # Shofian Ramadhan
 
 
-- Git Init
+1. Git Init
 
 <img src="/img/init.png/">
 
