@@ -14,4 +14,7 @@
 ![git threeway(1)](img/git%20fastforward(1).png)
 ![git threeway(2)](img/git%20fastforward(2).png)
 
+-PULL REQUEST
+![pull request](img/pull%20request.png)
+
 =====================================================
