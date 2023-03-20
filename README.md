@@ -3,7 +3,7 @@
 
 1. Git Init
 
-<img src="/img/init.png/">
+<img src="/img/init.PNG/">
 
 
 - Menambah File Baru
