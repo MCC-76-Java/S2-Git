@@ -18,8 +18,9 @@
 5. Conflict and Solved Conflict
 
 ![Conflict 3](https://user-images.githubusercontent.com/115515019/226252690-3482ea10-2b30-401f-a346-bbcca2b489d6.png)
-![Conflict](https://user-images.githubusercontent.com/115515019/226252707-2c0c2d93-2b97-4525-87ba-9cfd74614e69.png)
-![Conflict 2](https://user-images.githubusercontent.com/115515019/226252729-cc4e27a0-6ce8-4f46-b884-7fec4a944390.png)
+![Conflict 4](https://user-images.githubusercontent.com/115515019/226252977-2bd5ea27-afca-4fee-8c9c-6bb133e4e917.png)
+![Conflict 2](https://user-images.githubusercontent.com/115515019/226252987-7d75d256-880b-4d72-b9a6-c03925adc462.png)
+
 
 
 
