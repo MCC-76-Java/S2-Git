@@ -1,13 +1,6 @@
-# Hello MCC 76
-
 ## Semangat...
-<<<<<<< HEAD
 
 # RIDLO ALFATORIQ 
-=======
-# RIdlo Alfatoriq
->>>>>>> MainRidlo
-
 
 - git init
 
@@ -31,3 +24,27 @@
 - git request
 
 ![image](image/Gitpullrequest.png)
+=======
+
+- git init
+
+![image](Images/init.jpg)
+
+- git branch
+
+![image](Images/branch.jpg)
+
+- git fast fordward
+
+![image](Images/merge1.jpg)
+
+- git merge conflict
+![image](Images/merge.jpg)
+
+- git merger three way merge
+
+![image](Images/merge2.jpg)
+
+- git request 
+
+![image](Images/request.jpg)
