@@ -1,7 +1,7 @@
 # Shofian Ramadhan
 
 
-1. Git Init
+- Git Init
 
 <img src="/img/init.PNG/">
 
@@ -24,11 +24,6 @@
 - Git Remote Add
 
 <img src="/img/6. git remote add.PNG/">
-
-
-- Git Clone
-
-<img src="/img/7. git clone.PNG/">
 
 
 - Add Branch Parent
@@ -58,7 +53,7 @@
 
 - Conflict Warning
 
-<img src="/img/13. conflict warning.PNG/">
+<img src="/img/14. conflict warning.PNG/">
 
 
 - Conflict Comparing
